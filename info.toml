@@ -1,0 +1,10 @@
+[meta]
+name = "Inspect Draw"
+version = "0.1.0"
+author = "AnythingGoes"
+description = "Draw 3D lines on the map in inspect mode (T): hold the left mouse button to draw, Ctrl+Z to undo. Lines are saved per map."
+min_host = "0.31.0"
+dependencies = ["draw-core"]
+
+[script]
+files = ["main.as"]
