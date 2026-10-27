@@ -8,3 +8,4 @@ dependencies = ["draw-core"]
 
 [script]
 files = ["main.as"]
+assets = ["pencil.png", "eraser.png"]
